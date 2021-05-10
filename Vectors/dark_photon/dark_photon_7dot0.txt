@@ -1,4 +1,4 @@
-663:new = darkPhoton void 1 0 0 7.0 10**-5 0. 0. 0. 
+663:new = darkPhoton void 1 0 0 7.0 1.e-5 0. 0. 0. 
 663:addChannel = 1 0.1546070215892133 0  11 -11
 663:addChannel = 1 0.1546069734207592 0  13 -13
 663:addChannel = 1 0.1503671678658307 0  15 -15
