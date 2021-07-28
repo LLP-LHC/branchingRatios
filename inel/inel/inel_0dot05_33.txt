@@ -1,4 +1,6 @@
-9000005:new = chi2 void 1 0 0 33 1.e-5 0. 0. 0. 
+9000001:new = chi1 void 1 0 0 33 0. 0. 0. 0. 
+9000001:mayDecay = off 
+9000005:new = chi2 void 1 0 0 34.65 1.e-5 0. 0. 0. 
 9000005:isResonance = off 
 9000005:addChannel = 1 0.28539920622589643 0  11 -11
 9000005:addChannel = 1 0.268539179665142 0  13 -13

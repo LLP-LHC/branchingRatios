@@ -1,2 +1,4 @@
-9000005:new = chi2 void 1 0 0 1 1.e-5 0. 0. 0. 
+9000001:new = chi1 void 1 0 0 1 0. 0. 0. 0. 
+9000001:mayDecay = off 
+9000005:new = chi2 void 1 0 0 1.1 1.e-5 0. 0. 0. 
 9000005:addChannel = 1 1.0 0  11 -11
